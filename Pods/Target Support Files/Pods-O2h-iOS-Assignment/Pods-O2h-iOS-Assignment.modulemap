@@ -1,0 +1,6 @@
+framework module Pods_O2h_iOS_Assignment {
+  umbrella header "Pods-O2h-iOS-Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
