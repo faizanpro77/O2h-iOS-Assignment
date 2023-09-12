@@ -2,7 +2,7 @@
 
 ## Kingfisher - Easy Image Loading in Swift (third-party library)
 Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next 
-app.
+app.It provides a convenient way to display images in your iOS or macOS applications with minimal code.
 
 ## Screenshots 
 <br/>
